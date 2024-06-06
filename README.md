@@ -11,7 +11,7 @@ scrollback buffer works on the local konsole window. It essentially feels exactl
 normal SSH session but you can reboot your client computer and then resume everything instantly.
 
 This repository is just an example of how to do this. You'll need to edit the files to
-accomplish what you want it to do. My test shows how to open 8 konsole tabs.
+accomplish what you want it to do. My examples shows how to open 8 konsole tabs.
 
 You'll need to edit each tab file "konsole-tab-1", etc, to set your SSH server and server.
 This works best if you are using SSH keys. You also may want to edit the filename that is
