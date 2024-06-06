@@ -16,7 +16,7 @@ accomplish what you want it to do. My examples shows how to open 8 konsole tabs.
 You'll need to edit each tab file "konsole-tab-1", etc, to set your SSH server and server.
 This works best if you are using SSH keys. You also may want to edit the filename that is
 passed to dtach -A as that is how each tab is made persistent. It can be anything, but
-each tab needs to have a unique filename.
+each tab needs to have a unique filename on the server.
 
 Then edit the file "konsole-tabs". You can set the title that appears in Konsole for each
 tab and also the Konsole profile used for each one. You'll need one line for each tab
