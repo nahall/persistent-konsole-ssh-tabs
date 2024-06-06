@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh -t myuser@myserver 'dtach -A /tmp/dtach-myuser-tab5 -r winch bash'
